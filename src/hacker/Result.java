@@ -11,6 +11,10 @@ public class Result {
 		        int e=(int)d;
 		        
 		        System.out.println(e);
+		        
+		        System.out.println("added by 1");
+		        
+		        
 	}
 
 }
